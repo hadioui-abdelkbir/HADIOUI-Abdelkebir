@@ -11,7 +11,7 @@ permalink: /projects/robot-palletisation/
 Ce projet consiste à concevoir une cellule robotisée destinée à la palettisation de blocs compactés issus d’une ligne de conditionnement.  
 L’objectif est d’automatiser la prise, le transfert et la dépose des blocs sur palette tout en assurant la sécurité de l’opérateur, la fiabilité de la préhension et la bonne organisation de la zone de stockage.
 
-![Cellule robotisée]({{ '/assets/img/projects/robot-palletisation/cellule.png' | relative_url }})
+![Cellule robotisée](robot-palletisation_cellule.png)
 
 ---
 
