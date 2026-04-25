@@ -1,12 +1,12 @@
-# 👋 Bonjour, je suis Abdelkbir Hadioui
+# Bonjour, je suis Abdelkbir Hadioui
 
-🎓 Étudiant ingénieur en **Génie Mécanique et Systèmes Automatisés** à l’ENSA de Fès  
-🤖 Passionné par l’**automatisation industrielle**, la **robotique**, la **maintenance industrielle** et l’**Industrie 4.0**  
-🎯 Objectif : intégrer un environnement industriel orienté **automatisme, maintenance, robotique et systèmes connectés**
+ Étudiant ingénieur en **Génie Mécanique et Systèmes Automatisés** à l’ENSA de Fès  
+ Passionné par l’**automatisation industrielle**, la **robotique**, la **maintenance industrielle** et l’**Industrie 4.0**  
+ Objectif : intégrer un environnement industriel orienté **automatisme, maintenance, robotique et systèmes connectés**
 
 ---
 
-## 🚀 À propos de moi
+##  À propos de moi
 
 Je développe des projets techniques combinant **mécanique**, **automatisme**, **électricité industrielle**, **pneumatique**, **robotique** et **supervision**.
 
@@ -23,7 +23,7 @@ Je m’intéresse particulièrement à :
 
 ---
 
-## 🛠️ Compétences techniques
+##  Compétences techniques
 
 ### Automatisme & Supervision
 ![TIA Portal](https://img.shields.io/badge/TIA%20Portal-Siemens-blue)
@@ -60,9 +60,9 @@ Je m’intéresse particulièrement à :
 
 ---
 
-# 📌 Projets principaux
+#  Projets principaux
 
-## 1. 🤖 Cellule robotisée de palettisation de blocs compactés
+## 1.  Cellule robotisée de palettisation de blocs compactés
 
 🔗 **Lien du projet :** [Robot de palettisation – PFE](https://github.com/USERNAME/robot-palletisation-pfe)
 
@@ -96,7 +96,7 @@ Le projet intègre également une logique de sécurité avant levage basée sur 
 
 ---
 
-## 2. ⚙️ Automatisation d’une stockeuse de phosphate – OCP
+## 2.  Automatisation d’une stockeuse de phosphate – OCP
 
 🔗 **Lien du projet :** [Automatisation stockeuse OCP](https://github.com/USERNAME/stockeuse-phosphate-automation)
 
@@ -129,7 +129,7 @@ Compétences mobilisées :
 
 ---
 
-## 3. 🥫 Compacteur intelligent de canettes
+## 3.  Compacteur intelligent de canettes
 
 🔗 **Lien du projet :** [Compacteur de canettes automatisé](https://github.com/USERNAME/can-compactor-automation)
 
@@ -188,7 +188,7 @@ Chaque départ est protégé séparément afin d’améliorer la sélectivité, 
 
 ---
 
-## 5. 🧰 Maintenance industrielle – MK AERO Tanger
+## 5.  Maintenance industrielle – MK AERO Tanger
 
 🔗 **Lien du projet :** [Maintenance industrielle MK AERO](https://github.com/USERNAME/industrial-maintenance-mk-aero)
 
@@ -212,9 +212,9 @@ Expérience d’observation dans un environnement industriel orienté maintenanc
 
 ---
 
-## 6. 📊 Mini-projets automatisme, contrôle et systèmes embarqués
+## 6.  Mini-projets automatisme, contrôle et systèmes embarqués
 
-🔗 **Lien du projet :** [Mini-projets automatisme et IoT](https://github.com/USERNAME/automation-embedded-projects)
+ **Lien du projet :** [Mini-projets automatisme et IoT](https://github.com/USERNAME/automation-embedded-projects)
 
 Ce dépôt regroupe plusieurs travaux pratiques et mini-projets liés à l’automatisme, au contrôle et aux systèmes embarqués.
 
@@ -232,7 +232,7 @@ Ce dépôt regroupe plusieurs travaux pratiques et mini-projets liés à l’aut
 
 ---
 
-# 🏭 Domaines qui m’intéressent
+#  Domaines qui m’intéressent
 
 - Automatisation industrielle
 - Maintenance industrielle
@@ -245,7 +245,7 @@ Ce dépôt regroupe plusieurs travaux pratiques et mini-projets liés à l’aut
 
 ---
 
-# 🎯 Objectif professionnel
+#  Objectif professionnel
 
 Je cherche à évoluer dans un environnement industriel où je peux contribuer à des projets liés à :
 
@@ -259,23 +259,11 @@ Mon objectif est de devenir un ingénieur capable de relier la **mécanique**, l
 
 ---
 
-# 📫 Me contacter
+#  Me contacter
 
 - 💼 LinkedIn : [Abdelkbir Hadioui](https://www.linkedin.com/in/USERNAME)
-- 📧 Email : your.email@example.com
+- 📧 Email : abdelkebirhadioui@gmail.com
 - 🌐 Portfolio : [Mon portfolio](https://USERNAME.github.io/portfolio)
 - 🧑‍💻 GitHub : [github.com/USERNAME](https://github.com/USERNAME)
 
----
 
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
-
----
-
-## ✨ Devise personnelle
-
-> Concevoir, automatiser et améliorer les systèmes industriels avec une vision terrain, technique et orientée performance.
