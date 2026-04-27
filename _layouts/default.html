@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <title>{{ page.title | default: site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 
@@ -13,25 +14,34 @@
 
       <aside class="sidebar">
         <div class="profile-card">
+
           {% if site.logo %}
             <img class="profile-image" src="{{ site.logo | relative_url }}" alt="Photo de profil">
           {% endif %}
 
           <h1 class="profile-name">{{ site.title }}</h1>
-          <p class="profile-role">{{ site.description }}</p>
+
+          <p class="profile-role">
+            Automatisation industrielle · Robotique · Maintenance
+          </p>
 
           <div class="profile-info">
-            <p> Étudiant ingénieur – ENSA de Fès</p>
-            <p> Automatisation industrielle</p>
-            <p> Robotique industrielle</p>
-            <p> Maintenance industrielle</p>
-            <p> PLC Siemens / HMI / Industrie 4.0</p>
+            <p>🎓 Étudiant ingénieur – ENSA de Fès</p>
+            <p>⚙️ Génie mécanique & systèmes automatisés</p>
+            <p>🤖 Robotique industrielle</p>
+            <p>🛠️ Maintenance industrielle</p>
+            <p>💡 PLC Siemens · HMI · Industrie 4.0</p>
           </div>
 
+          <div class="sidebar-separator"></div>
+
           <div class="profile-links">
-            <a href="https://github.com/{{ site.github.owner_name | default: 'hadioui-abdelkbir' }}" target="_blank">GitHub</a>
+            <a href="mailto:abdelkebirhadioui@gmail.com">Email</a>
+            <a href="https://github.com/hadioui-abdelkbir" target="_blank">GitHub</a>
             <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a>
+            <a href="{{ '/assets/cv/CV-Abdelkbir-Hadioui.pdf' | relative_url }}" target="_blank">CV PDF</a>
           </div>
+
         </div>
       </aside>
 
