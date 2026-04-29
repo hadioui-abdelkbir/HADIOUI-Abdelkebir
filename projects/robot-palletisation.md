@@ -55,7 +55,7 @@ La cellule est composée de :
 - Une armoire électrique avec API Siemens et IHM.
 - Une communication robot/API via PROFINET.
 
-![Architecture cellule]({{ '/assets/img/projects/robot-palletisation/schema-cellule.png' | relative_url }})
+![Architecture cellule](../projects/image ilot_haut.png)
 
 ---
 
